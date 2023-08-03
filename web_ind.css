@@ -1,0 +1,25 @@
+.menu {
+	background-color: #ddd; 
+	list-style-type: none;
+	text-align: right;
+	margin: 0;
+	padding: 0;	
+
+  }
+.menu li{
+	display: inline-block;
+	top: 8px;
+    right: 80px;
+    font-size: 20px; 
+  	list-style-type: none;
+  	padding: 20px;
+  }
+.menu  a:link {
+	text-decoration: none;
+  }
+.menu  a:hover {
+	color: aliceblue;
+  }
+  .container {
+	position: relative;
+  }
